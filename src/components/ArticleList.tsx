@@ -5,7 +5,7 @@ import Article from "./Article";
 import Suggestion from "./Suggestion";
 import Topics from "./Topics";
 import Picks from "./Picks";
-import Sidecard from "./SideCard";
+import Sidecard from "./Sidecard";
 
 
 const Main = styled.main`
